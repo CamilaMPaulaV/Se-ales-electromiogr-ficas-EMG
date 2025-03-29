@@ -13,7 +13,8 @@ Posteriormente, se puede observar el aventanamiento obtenido con su respectivo e
 
 ![AVENTANAMIENTO](https://github.com/user-attachments/assets/1aecb699-7706-43e9-8880-fd7b4057eb12)
 
-Lo anterior,
+Basado en lo anterior, se observa un aumento en la densidad espectral de potencia por parte del espectro final en frecuencias bajas entre los 0 - 50Hz, lo anterior es un indicador de la fátiga muscular esto dado que las fibras de contracción rápida tienden a activarse en menor nivel (estas generan los componenetes de altas frecuencias). 
+Por otra parte entre los rangos de aproximadamente 50 a 200Hz tienen un comportanmiento similar los espectros, por lo anterior se evidencia que la fátiga muscular es mostrada en frecuencuas altas principalmente, igualmente para el caso de frecuencias mayores a 200Hz.
 
 
 ## Instrucciones
