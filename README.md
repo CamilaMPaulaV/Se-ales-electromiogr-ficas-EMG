@@ -11,7 +11,7 @@ En esta se logra observar las contracciones musculares producidas, mostrando los
 
 Posteriormente se obtuvo el espectro de la señal 
 
-![MEDIAFIN](https://github.com/user-attachments/assets/01fb85d2-6af8-44b3-bbde-240d0db2690b)
+<img src="https://github.com/user-attachments/assets/01fb85d2-6af8-44b3-bbde-240d0db2690b" width="400">
 
 Lo anterior, demuestra que la mayor densidad espectral se concentra en las bajas frecuencias, así mismo se observa un pico que pudo ser dado por ruidos externos como los artefactos, por otra parte se encuentra que a medida que la frecuencia aumenta la densidad espectral disminuye, lo cual es característico de las señales EMG dado que el rango de utilidad se encuentra entre los 20 a 250Hz, se percibe la presencia de una mediana espectral desplazada, lo cual indica una reducción en la frecuencia dominante a lo largo del tiempo, sugiriendo la fatiga muscular.
 
