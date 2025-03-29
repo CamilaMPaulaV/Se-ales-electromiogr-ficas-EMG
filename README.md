@@ -226,3 +226,5 @@ analizar_fatiga(datos, SAMPLE_RATE)
 Señales electromiográficas EMG by Camila Martínez Y Paula Vega published 28/03/25
 
 ## Referencias
+1. Álvarez, J. C., & Álvarez, J. C. (2024, 28 febrero). Prueba T de Welch - SASdesdeCero. SASdesdeCero - Aprende Estadística y Programación SAS. https://www.sasdesdecero.com/prueba-t-de-welch/
+2. Jhon, R., & Jhon, R. (2024, 18 septiembre). ¿Qué es la ventana de Hamming y Hanning? RADARTOPIX.COM. https://radartopix.com/es/que-es-la-ventana-de-hamming-y-hanning/
