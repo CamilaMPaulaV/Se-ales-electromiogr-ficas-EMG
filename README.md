@@ -38,6 +38,6 @@ De esta manera, las líneas negras discontinuas marcan los valores críticos par
 4. DAQ
 
 ## Para referenciar
-Señales electromiográficas EMG by Camila Martínez Y Paula Vega published 11/02/25
+Señales electromiográficas EMG by Camila Martínez Y Paula Vega published 28/03/25
 
 ## Referencias
