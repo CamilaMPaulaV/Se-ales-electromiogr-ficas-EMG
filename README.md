@@ -4,7 +4,9 @@ A continuación encontrará el código pertinenete a un programa que gráfica un
 
 ## Resultados 
 
+
 ## Instrucciones
+
 
 ## Requerimientos
 1. Python 3.12, mathlab, NI
@@ -15,4 +17,4 @@ A continuación encontrará el código pertinenete a un programa que gráfica un
 ## Para referenciar
 Señales electromiográficas EMG by Camila Martínez Y Paula Vega published 11/02/25
 
-# Referencias
+## Referencias
