@@ -7,6 +7,13 @@ A partir de la señal EMG capturada y el código realizdo posteriormente en pyht
 
 ![EMG1](https://github.com/user-attachments/assets/c7e8ec87-996f-48bc-87f7-f382f4b49aa7)
 
+En esta se logra observar las contracciones musculares producidas, mostrando los picos (contracción) y posteriormente su relajación, así mismo se evidencia que al final hubo una mayor frecuencia en las contracciones musculares y con mayor intensidad dado que llegan en su mayoria a los siete voltios, lo anterior dado que al llegar a la fatiga muscular, los músculos se activan con mayor frecuencia para compensar el esfuerzo.
+
+Posteriormente, se puede observar el aventanamiento obtenido con su respectivo espectro y comparación entre el inicial (azul, antes de la fatiga) y el final (verde, después de la fatiga)
+
+![AVENTANAMIENTO](https://github.com/user-attachments/assets/1aecb699-7706-43e9-8880-fd7b4057eb12)
+
+Lo anterior,
 
 
 ## Instrucciones
