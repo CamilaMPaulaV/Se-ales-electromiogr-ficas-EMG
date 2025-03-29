@@ -3,6 +3,9 @@
 A continuación encontrará el código pertinenete a un programa que gráfica una señal EMG filtrada mediante el módulo de elctromiografía, así mismo se hace uso del aventanamiento mediante la técnica Hamming con su respectivo análisis espectral a partir de la FFT, lo anterior será realizado de manera progresiva hasta alcanzar la fátiga musuclar con la finalidad de ideintificar el cambio del espectro y evaluar el comportamiento de las frecuencias. Basado en lo anterior, se toma una señal EMG mediante el módulo AD8832 concetandolo al antebrazo mediante electrodos, posteriormente esta señal es trasmitida mediante el DAQ al computador para su posterior análisis ya descrito.
 
 ## Resultados 
+A partir de la señal EMG capturada y el código realizdo posteriormente en pyhton, se obtuvo primeramente la siguiente señal que es filtrada directamente por el sensor EMG gracias a su configuración:
+
+![image](https://github.com/user-attachments/assets/eb9be39e-93db-4a20-b859-8e8eb958cc62)
 
 
 ## Instrucciones
