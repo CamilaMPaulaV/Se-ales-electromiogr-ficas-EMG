@@ -79,11 +79,11 @@ def guardar_datos_npy(data, filename):
     print(f"Datos guardados en {filename}")
 
 def graficar_datos(data):
-    tiempo = np.arange(0, len(data)) / SAMPLE_RATE  # Crear vector de tiempo
+    tiempo = np.arange(0, len(data)) / SAMPLE_RATE  
 
     plt.figure(figsize=(12, 5))
     
-    if len(data) > 50000:  # Si hay más de 50,000 puntos, graficar una muestra representativa
+    if len(data) > 50000:  
         step = len(data) // 50000
         plt.plot(tiempo[::step], data[::step], label="Señal adquirida (muestra reducida)", color='b', linewidth=0.5)
     else:
