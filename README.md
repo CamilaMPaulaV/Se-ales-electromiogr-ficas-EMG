@@ -44,8 +44,8 @@ DURATION = 120
 FILENAME_NPY = "datos_señal.npy"  
 
 def adquirir_datos():
-    num_samples = SAMPLE_RATE * DURATION  # Número total de muestras a adquirir
-    data = np.zeros(num_samples)  # Prealocar espacio para eficiencia
+    num_samples = SAMPLE_RATE * DURATION  
+    data = np.zeros(num_samples) 
     
     with nidaqmx.Task() as task:
         task.ai_channels.add_ai_voltage_chan(f"{DEVICE_NAME}/{CHANNEL}")
@@ -56,7 +56,7 @@ def adquirir_datos():
 
         for i in range(DURATION):
             chunk = task.read(number_of_samples_per_channel=SAMPLE_RATE)  
-            data[i * SAMPLE_RATE : (i + 1) * SAMPLE_RATE] = chunk  # Guardar en la matriz
+            data[i * SAMPLE_RATE : (i + 1) * SAMPLE_RATE] = chunk  
 
             elapsed = time.time() - start_time
             print(f" Progreso: {i+1}/{DURATION} segundos ({elapsed:.1f} s transcurridos)", end="\r")
