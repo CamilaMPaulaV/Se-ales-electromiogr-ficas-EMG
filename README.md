@@ -5,7 +5,8 @@ A continuación encontrará el código pertinenete a un programa que gráfica un
 ## Resultados 
 A partir de la señal EMG capturada y el código realizdo posteriormente en pyhton, se obtuvo primeramente la siguiente señal que es filtrada directamente por el sensor EMG gracias a su configuración:
 
-![image](https://github.com/user-attachments/assets/eb9be39e-93db-4a20-b859-8e8eb958cc62)
+![EMG1](https://github.com/user-attachments/assets/c7e8ec87-996f-48bc-87f7-f382f4b49aa7)
+
 
 
 ## Instrucciones
